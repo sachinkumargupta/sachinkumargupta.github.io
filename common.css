@@ -1,0 +1,8 @@
+body {
+   background-image: url("./assets/background/2.jpg");
+   background-color: #cccccc;
+}
+
+.login {
+  margin-top: 60px;
+}
